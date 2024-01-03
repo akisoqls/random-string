@@ -14,7 +14,7 @@ generateRandomString(); // "AgZPEhZVUZRKDSKRctlgx5iibRPdWN8jCOjLxpr8ZnVT9Y9fWl9s
 ## Params
 
 - **`length` (optional)**: The length of random string. Default: `64`
-- **`charset` (optional)**:  Characters used in random string. Default: `abcdefghijklmnoqprstuvwxyzABCDEFGHIJKLMNOQPRSTUVWXYZ0123456789`
+- **`charset` (optional)**:  Characters used in random string. Default: `abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789`
 
 ## Returns
 
