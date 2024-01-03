@@ -19,3 +19,9 @@ generateRandomString(); // "AgZPEhZVUZRKDSKRctlgx5iibRPdWN8jCOjLxpr8ZnVT9Y9fWl9s
 ## Returns
 
 Returns a string that includes randomly selected characters from the charset.
+
+## Use for Deno
+
+```JavaScript
+import { generateRandomString } from "https://deno.land/x/random_string_generator/mod.ts";
+```
